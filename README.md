@@ -1,1 +1,1 @@
-# utils
+This is my set of utils I use (mostly for home server stuff). ATM not really a lot of stuff, might update as required. Mostly used so that I can just clone files instead of manually copying them to new servers.
